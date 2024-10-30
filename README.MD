@@ -54,3 +54,9 @@ python demo.py
   year={2024}
 }
 ```
+
+## Acknowledgements
+
++ This model is constructed based on [PSPNet](https://arxiv.org/pdf/1612.01105).
+
++ This model is built on the open source framework [awesome-semantic-segmentation-pytorch](https://github.com/Tramac/awesome-semantic-segmentation-pytorch.git).
