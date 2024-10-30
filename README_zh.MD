@@ -50,3 +50,9 @@ python demo.py
   year={2024}
 }
 ```
+
+## 鸣谢
+
++ 本模型基于[PSPNet](https://arxiv.org/pdf/1612.01105)构建。
+
++ 本模型基于开源架构[awesome-semantic-segmentation-pytorch](https://github.com/Tramac/awesome-semantic-segmentation-pytorch.git)构建。
