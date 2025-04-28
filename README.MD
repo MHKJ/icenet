@@ -1,6 +1,7 @@
 # ICENet (Indoor Cognition Extraction Network)
 
 ## 0. Demo
+[Video Demo](./demo.mp4)
 <video src="./demo.mp4" autoplay="true" controls="controls" width="800" height="600">
 </video>
 
