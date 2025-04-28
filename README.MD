@@ -11,7 +11,7 @@
 Click on [Indoor Space Cognition Dataset](https://gluteducn-my.sharepoint.com/:u:/g/personal/fengbuxi_glut_edu_cn/ERHslxh4kiZCsy1wHvnN9JgBeiZfLp9cXhHUg0ouTaNerQ?e=Q9piKL) to download the dataset.
 
 
-Password: <font color="#FF0000">fengbuxi</font>
+Password: <span style="color: red;">fengbuxi</span>
 
 
 ## 3. Task-level configuration file usage
