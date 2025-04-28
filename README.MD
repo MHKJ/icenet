@@ -1,5 +1,10 @@
 # ICENet (Indoor Cognition Extraction Network)
 
+## 0. Demo
+<video src="./demo.mp4" autoplay="true" controls="controls" width="800" height="600">
+</video>
+
+
 ## 1. Installation of dependent libraries
 
 ```bash
